@@ -1,0 +1,38 @@
+
+
+            /*Image created for background*/
+#body{
+margin:0px;
+background: url("snakes.jpg");
+	    background-repeat: no-repeat;
+    background-attachment: fixed;
+	
+}
+
+#home{
+background:black;	
+background-position: absolute;
+}
+
+#header{
+color: yellow;	
+	
+	
+}
+
+			/*Table Design*/
+table, tr, th, td{
+border: 5px solid white;
+border-collapse: collapse;	
+color: white;	
+
+	
+	
+}
+
+.table{
+	position:absolute;
+	top: 200px;
+	left:400px;
+	width: 70%;
+}

@@ -1,0 +1,26 @@
+body{
+	margin:0px;
+	background: url("snakes.jpg");
+	    background-repeat: no-repeat;
+    background-attachment: fixed;
+	}
+	
+#page_1{
+background:black;	
+background-position: absolute;
+
+}
+				/*Game Header*/
+#header{
+right: 100px;
+padding: 0px;
+color: yellow;
+
+}
+
+
+
+
+
+
+

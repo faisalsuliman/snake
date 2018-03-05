@@ -1,0 +1,97 @@
+
+					/*body design for all pages*/
+body{
+margin:0px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+text-align:center;
+}
+
+						
+				    /*home page and header design for all pages*/
+#home{
+background: black;	
+background-position: absolute;
+}
+
+	
+#header{
+text-align: center;
+padding: 0px;
+color: yellow;
+}
+
+					/*navigation and design*/
+#navigation_bar{
+text-align: center;
+}
+
+#help{
+color: yellow;	
+text-align: center;		
+padding: 10px;
+}
+				
+#button_1 {
+padding: 10px;
+-webkit-transition-duration: 0.4s;  
+transition-duration: 0.4s;
+}
+
+button:hover {
+background-color: yellow; 
+}
+
+				
+				/* header and canvas for javascript game */
+.h2 {
+color : yellow;	
+}
+
+canvas {
+border: 2px solid rgb(151, 149, 149);
+color: white;	
+}
+
+
+				/* HighScores design */
+table, tr, th, td{
+border: 5px solid white;
+border-collapse: collapse;	
+color: white;	
+}
+
+.table{
+position:absolute;
+top: 200px;
+left:400px;
+width: 70%;
+}
+
+#container, label, legend{
+background-color: yellow;	
+}
+				
+				/*snakechase, highscorespage, playgamepage, register*/
+
+.footer{
+background-color: yellow;	
+width: 100%;
+color: white;
+border-top: 10px solid white;
+height: auto;
+text-align: center;
+position:fixed;	
+}
+
+.footer > p{
+text-align: center;
+font-size: 10px;
+text-transform: uppercase;
+padding:3px 12px 3px 0px;
+}
+
+.clearfix_2{
+color: white;	
+}
+

@@ -1,0 +1,32 @@
+body{
+margin:0px;
+margin:0px;
+background: url("snakes.jpg");
+	    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+#page{
+background:black;	
+background-position: absolute;
+}
+				/*Heading Design*/
+#header{
+color: yellow;	
+	
+	
+}
+
+padding{
+color: black;	
+	
+	
+	
+}
+				/*Register and Login Design*/
+#container, label, legend{
+background-color: yellow;	
+	
+}
+

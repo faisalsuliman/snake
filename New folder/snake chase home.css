@@ -1,0 +1,53 @@
+body{
+	margin:0px;
+	background: url("snakes.jpg");
+	    background-repeat: no-repeat;
+    background-attachment: fixed;
+	
+	}
+
+
+
+#page{
+background:black;	
+background-position: absolute;	
+	
+}
+	
+#header{
+text-align: center;
+padding: 0px;
+color: yellow;
+
+}
+
+#navigation_bar{
+text-align: center;
+
+}
+
+                       /*Game info*/
+#help{
+color: yellow;	
+text-align: center;		
+padding: 10px;
+}
+                      /*Button Layout and Design*/
+#button_1 {
+    padding: 10px;
+	-webkit-transition-duration: 0.4s;  
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: yellow; 
+    
+}
+
+                     /*Game Creator*/
+footer{
+color: yellow;	
+text-align: center;	
+	
+}
+
